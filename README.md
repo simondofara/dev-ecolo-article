@@ -50,6 +50,7 @@ Sachant cela, comment faire en tant qu’utilisateur et plus particulièrement e
 - Ne pas multiplier les matériels
 
 ![](Capture.PNG)
+*Source : https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf*
 
 ### En tant que développeur
 **Réduire le poids des pages**
