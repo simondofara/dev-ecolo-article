@@ -49,6 +49,8 @@ Sachant cela, comment faire en tant qu’utilisateur et plus particulièrement e
 - Choisir un appareil adapté à son besoin
 - Ne pas multiplier les matériels
 
+![](Capture.PNG)
+
 ### En tant que développeur
 **Réduire le poids des pages**
 - Ecrire efficacement et proprement (les programmes gourmands en back induisent nécessairement une plus grande consommation de ressources et d’énergie)
