@@ -72,7 +72,7 @@ Sachant cela, comment faire en tant qu’utilisateur et plus particulièrement e
 
 Cette liste de bonnes pratiques est non exhaustive et inspirée de mon expérience personnelle, ainsi de ce que j’ai pu rassembler au cours de mes recherches.
 Je pense que le sujet de la pollution numérique est vraiment unique. 
-*Ou comment un écologiste convaincu qui regarde ou poste régulièrement des vidéos sur YouTube, prend position sur des forums et sensibilise ses proches par mail peut avoir dans l’absolu un impact environnemental plus important qu’une personne sans aucune sensibilité écologique, mais vivant simplement, et sans abuser d’internet.*
+*Ou comment un écologiste convaincu qui regarde ou poste régulièrement des vidéos sur YouTube, prend position sur des forums et sensibilise ses proches par mail (par exemple) peut avoir dans l’absolu un impact environnemental plus important qu’une personne sans aucune sensibilité écologique, mais vivant simplement, et sans abuser d’internet.*
 
 **Sources :**
 - https://www.greenpeace.fr/la-pollution-numerique/
