@@ -1,5 +1,5 @@
 # Réduire son impact écologique : les bonnes pratiques du dev web
-### Le constat :
+### Le constat 
 La pollution liée au numérique est due pour moitié au fonctionnement d’internet, et pour l’autre moitié à la fabrication de nos terminaux numériques.
 
 **En quelques chiffres** :
@@ -25,43 +25,43 @@ Le mauvais élève reste le streaming vidéo qui représente 60 % des flux de do
 La responsabilité sur cette pollution du numérique et le manque de considération donnée est à porter à la fois par le système et par les utilisateurs qui l’entretiennent.
 Sachant cela, comment faire en tant qu’utilisateur et plus particulièrement en tant que développeur web, pour réduire intelligemment son impact et continuer à vivre au mieux avec le poids de cette vérité ? (car j’ai du mal pour ma part, à considérer toute activité participant au développement d’internet, compatible avec une démarche écologique globale).
 
-### En tant qu’utilisateur lambda :
-**Streaming :**
+### En tant qu’utilisateur lambda
+**Streaming**
 - Diminuer l’usage du streaming vidéo dans l’absolu
 - Réduire la résolution des vidéos en streaming pour réduire sa consommation de données
 - Télécharger les contenus susceptibles d’être visionnés plusieurs fois
 - Prêter ou échanger ses bibliothèques numériques (disque dur) et physiques (DVD…) et éviter de dupliquer des contenus
 
-**Emails :**
+**Emails**
 - Trier ses mails pour décharger les serveurs qui consomment pour les maintenir accessibles (même chose pour son cloud)
 - Se désabonner des newsletters inutiles
 - Minimiser les conversations mails à multiples destinataires
 
-**Recherches internet :**
+**Recherches internet**
 - Enregistrer les sites visités régulièrement en favori pour éviter de multiplier les recherches
 - Choisir un moteur de recherche responsable, qui compense ses émissions carbones (Lilo, Ecosia…)
 - Questionner l’utilité de chaque recherche internet
 
-**Matériel :**
+**Matériel**
 - Augmenter la longévité de son équipement : prendre soin de son ordinateur, privilégier les appareils modulaires pour faire évoluer sa configuration avec le temps, éviter l’overclocking qui réduit la durée de vie des processeurs, rester branché sur le secteur, désactiver l’indexation des fichiers et la défragmentation et activer TRIM sur SSD…
 - Eviter de remplacer son ordinateur sur un coup de tête
 - Acheter de l’occasion pour donner une seconde vie à des composants ou appareils
 - Choisir un appareil adapté à son besoin
 - Ne pas multiplier les matériels
 
-### En tant que développeur :
-**Réduire le poids des pages :**
+### En tant que développeur
+**Réduire le poids des pages**
 - Ecrire efficacement et proprement (les programmes gourmands en back induisent nécessairement une plus grande consommation de ressources et d’énergie)
 - Stocker ou télécharger les images à la bonne échelle au lieu de compter uniquement sur CSS pour les redimensionner
 - Compresser les médias qui peuvent l’être
 - Ne pas hésiter à utiliser des CDN pour charger gratuitement des contenus existants sur d’autres sites (ex : banques d’images gratuites), et éviter de stocker inutilement sur un cloud
 - Eviter dans la mesure du possible les CMS proposant des thèmes lourds
 
-**Choisir les bons hébergeurs :**
+**Choisir les bons hébergeurs**
 - Eviter le cloud d’Amazon ainsi que les PaaS s’appuyant sur AWS (Heroku en fait partie, malheureusement…), et plus généralement tous les hosts dont les serveurs sont encore majoritairement alimentés par les énergies fossiles
 - Dans la mesure du possible, choisissez des serveurs au plus proches géographiquement des visiteurs cibles de votre site web
 
-**Emails :**
+**Emails**
 - Faire du tri dans sa base de données et ainsi éviter de spammer des leads inactifs
 - Privilégier la qualité et le ciblage de vos campagnes emailing à la quantité
 - Renvoyer vers une page de votre site pour charger des médias plutôt que de les inclure directement dans un mail
