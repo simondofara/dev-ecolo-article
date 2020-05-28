@@ -55,10 +55,10 @@ Sachant cela, comment faire en tant qu’utilisateur et plus particulièrement e
 
 ### En tant que développeur
 **Réduire le poids des pages**
-- Ecrire efficacement et proprement (les programmes gourmands en back induisent nécessairement une plus grande consommation de ressources et d’énergie)
+- Ecrire efficacement et proprement (ex: les programmes gourmands en back induisent nécessairement une plus grande consommation de ressources et d’énergie)
 - Stocker ou télécharger les images à la bonne échelle au lieu de compter uniquement sur CSS pour les redimensionner
 - Compresser les médias qui peuvent l’être
-- Ne pas hésiter à utiliser des CDN pour charger gratuitement des contenus existants sur d’autres sites (ex : banques d’images gratuites), et éviter de stocker inutilement sur un cloud
+- Ne pas hésiter à utiliser des CDN pour charger gratuitement des contenus existants sur d’autres sites (ex : banques d’images gratuites), et éviter de stocker inutilement sur un cloud des contenus déjà en ligne
 - Eviter dans la mesure du possible les CMS proposant des thèmes lourds
 
 **Choisir les bons hébergeurs**
@@ -71,7 +71,8 @@ Sachant cela, comment faire en tant qu’utilisateur et plus particulièrement e
 - Renvoyer vers une page de votre site pour charger des médias plutôt que de les inclure directement dans un mail
 
 Cette liste de bonnes pratiques est non exhaustive et inspirée de mon expérience personnelle, ainsi de ce que j’ai pu rassembler au cours de mes recherches.
-Je pense que le sujet de la pollution numérique est vraiment unique. Ou comment un écologiste convaincu qui regarde ou poste régulièrement des vidéos sur YouTube, prend position sur des forums et sensibilise ses proches par mail peut avoir dans l’absolu un impact environnemental plus important qu’une personne sans aucune sensibilité écologique, mais vivant simplement, et sans abuser d’internet.
+Je pense que le sujet de la pollution numérique est vraiment unique. 
+*Ou comment un écologiste convaincu qui regarde ou poste régulièrement des vidéos sur YouTube, prend position sur des forums et sensibilise ses proches par mail peut avoir dans l’absolu un impact environnemental plus important qu’une personne sans aucune sensibilité écologique, mais vivant simplement, et sans abuser d’internet.*
 
 **Sources :**
 - https://www.greenpeace.fr/la-pollution-numerique/
