@@ -70,7 +70,7 @@ Sachant cela, comment faire en tant qu’utilisateur et plus particulièrement e
 - Privilégier la qualité et le ciblage de vos campagnes emailing à la quantité
 - Renvoyer vers une page de votre site pour charger des médias plutôt que de les inclure directement dans un mail
 
-Cette liste de bonnes pratiques est non exhaustive et inspirée de mon expérience personnelle, ainsi de ce que j’ai pu rassembler au cours de mes recherches.
+Cette liste de bonnes pratiques est non exhaustive et inspirée de mon expérience personnelle, ainsi de ce que j’ai pu rassembler au cours de mes recherches. Je vous laisse volontairement aller à la pêche aux infos / solutions, cet article se voulant initiateur de la démarche.
 Je pense que le sujet de la pollution numérique est vraiment unique. 
 *Ou comment un écologiste convaincu qui regarde ou poste régulièrement des vidéos sur YouTube, prend position sur des forums et sensibilise ses proches par mail (par exemple) peut avoir dans l’absolu un impact environnemental plus important qu’une personne sans aucune sensibilité écologique, mais vivant simplement, et sans abuser d’internet.*
 
